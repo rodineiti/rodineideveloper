@@ -10,7 +10,7 @@
 
 # Link
 
-    <a href="https://rodineiti.github.io/rodineideveloper/" target="_blank">https://rodineiti.github.io/rodineideveloper/</a>
+    https://rodineiti.github.io/rodineideveloper/
 
 Prints
 
