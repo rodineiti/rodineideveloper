@@ -443,8 +443,12 @@ nav.show div.icon-close {
   align-items: center;
 }
 
-#contact ul li i, #contact ul li a {
+#contact ul li i {
   color: var(--base-color);
+}
+
+#contact ul li a {
+  color: var(--text-color);
 }
 
 /* Footer */
