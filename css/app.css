@@ -443,7 +443,7 @@ nav.show div.icon-close {
   align-items: center;
 }
 
-#contact ul li i {
+#contact ul li i, #contact ul li i a {
   color: var(--base-color);
 }
 
