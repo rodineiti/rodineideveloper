@@ -94,7 +94,6 @@ scrollReveal.reveal(
   #about .image, #about .text,
   #services header, #services .card,
   #portfolios header, #portfolios .portfolios,
-  #contact .text, #contact .links,
   #footer .brand, #footer .social
 `,
   { interval: 100 }
